@@ -5,4 +5,3 @@ See instructions here: https://mcp.labs.storyblok.com/
 
 ## 2. Provide system instructions for the Agent
 Copy from https://github.com/gregblok/sb-landing-page-generator/blob/main/agent-instructions.md
-Paste at the beginning of the session or save as skill
